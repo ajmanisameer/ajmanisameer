@@ -1,4 +1,3 @@
-# sameer.dev
 🌎 Hello, world! I'm Sameer 👋🏼
 
 I'm working as a Software Developer at a Enterpise level Startup -- a partner engagement platform specifically designed for the manufacturers and suppliers in the pharmaceutical industry.
