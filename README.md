@@ -1,6 +1,6 @@
 🌎 Hello, world! I'm Sameer 👋🏼
 
-I'm working as a Software Developer at a Enterpise level Startup -- a partner engagement platform specifically designed for the manufacturers and suppliers in the pharmaceutical industry.
+I work at a Enterpise Level Startup as Software Developer -- a partner engagement platform specifically designed for the manufacturers and suppliers in the pharmaceutical industry.
 
 Before that, I taught myself how to code and spend a year doing some freelance projects.
 
