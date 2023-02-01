@@ -4,4 +4,4 @@ I work at a Enterprise Level Startup as Software Developer -- a partner engageme
 
 Before that, I taught myself how to code and spend a year doing some freelance projects.
 
-Current favorite stack 🥞: TypeScript, Angular, Node.js, AWS
+Current favorite stack 🥞: TypeScript, Angular, React Node.js, AWS
