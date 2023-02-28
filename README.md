@@ -20,4 +20,4 @@ Before that, I taught myself how to code and spend a year doing some freelance p
 
 <br>
 
-[![Sameer's github stats](https://github-readme-stats.vercel.app/api?username=ajmanisameer)](https://github.com/ajmanisameer/github-readme-stats)
+[![Sameer's github stats](https://github-readme-stats.vercel.app/api?username=ajmanisameer&show_icons=true&theme=transparent)](https://github.com/ajmanisameer/github-readme-stats)
